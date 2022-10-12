@@ -1,0 +1,8 @@
+.form-text {
+    color: rgb(155, 155, 155);
+    font-size: .7rem;
+}
+
+.error {
+    color: red;
+}
